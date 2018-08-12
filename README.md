@@ -1,2 +1,4 @@
 # hello-world
-Random respository
+Zach de Beer here!
+
+Checking Github out - just exploring.
